@@ -3,7 +3,7 @@
 * Workers are the in-browser thread that can be used to execute javascript code without blocking the UI.
   This will help developer to write code which do heavy computation and will not block the UI at all.
   
-  * But you will say that Javascript is single thread language but we should know that
+  * Javascript is single threaded language ??? :phew , we should know that
   javascript is just a language it does not define the thread-model and web workers are not
   javascript thing its the browser-api which can be accessed by Javascript.
   
