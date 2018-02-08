@@ -16,7 +16,8 @@
     Dedicated worker is instantiated by main process and can be only comunicated with it
     
 #### Shared Workers
-    Shared workers can be reached by all the processes running on the same origin like different tabs, iframes or other shared workers.
+    Shared workers can be reached by all the processes running on the same origin like different tabs,
+     iframes or other shared workers.
     
 #### Service workers
     Service worker is event-driven worker registered with origin and tha path.
