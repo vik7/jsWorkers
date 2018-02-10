@@ -12,7 +12,7 @@
     * Shared workers
     * Service workers
     
-#### Dedicated worker
+#### [Dedicated worker](https://github.com/vik7/jsWorkers/blob/master/dedicatedWorker/doc/webWorker.md)
     Dedicated worker is instantiated by main process and can be only comunicated with it
     
 #### Shared Workers
@@ -24,5 +24,7 @@
     It has the capability to control/manage the webpage/site assosiated with it,
     by intercepting and modifying resource and navigation requests and caching resources
     in very controlled and granular fashion which you can drive your app how they behave in certain
-    envirnment like when network is not available. 
+    envirnment like when network is not available.
+    
+[Reference](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
     
