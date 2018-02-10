@@ -20,9 +20,9 @@
      iframes or other shared workers.
     
 #### Service workers
-    Service worker is event-driven worker registered with origin and tha path.
-    It has the capability to control/manage the webpage/site assosiated with it,
-    by intercepting and modifying resource and navigation requests and caching resources
+    Service worker is event-driven worker registered with origin and the path.
+    It has the capability to control/manage the webpage/site assosiated with it
+    by intercepting and modifying resources, navigation requests and caching resources
     in very controlled and granular fashion which you can drive your app how they behave in certain
     envirnment like when network is not available.
     
