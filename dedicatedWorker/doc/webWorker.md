@@ -7,3 +7,6 @@
     * Most browsers have implemented this by automatically JSON encoding and
     decoding at either end.
     * This way bigger the message, longer it will take time to sent.
+    
+* Transferring message
+    * Message is transferred in form of Array Buffer
