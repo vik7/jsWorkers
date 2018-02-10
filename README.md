@@ -13,7 +13,7 @@
     * Service workers
     
 #### [Dedicated worker](https://github.com/vik7/jsWorkers/blob/master/dedicatedWorker/doc/webWorker.md)
-    Dedicated worker is instantiated by main process and can be only comunicated with it
+    Dedicated worker is instantiated by main process and can be only communicated with it
     
 #### Shared Workers
     Shared workers can be reached by all the processes running on the same origin like different tabs,
